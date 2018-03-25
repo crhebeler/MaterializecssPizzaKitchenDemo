@@ -3,7 +3,7 @@
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
  *
- * Made By MaterializeCSS.com
+ * Made By Christopher Hebeler 
  */
 
 nav ul a,
@@ -16,14 +16,14 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color:  rgb(0, 0, 0) ;
 }
 
 .parallax-container {
   min-height: 380px;
   line-height: 0;
   height: auto;
-  color: rgba(255,255,255,.9);
+  color:  rgb(0, 0, 0) ;
 }
   .parallax-container .section {
     width: 100%;
